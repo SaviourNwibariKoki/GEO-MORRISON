@@ -1,0 +1,6 @@
+{
+  "name": "GEO-MORRISON",
+  "description": "AI-assisted geology learning and fieldwork companion for students and earth scientists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
